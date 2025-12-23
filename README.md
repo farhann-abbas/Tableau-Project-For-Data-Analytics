@@ -7,6 +7,9 @@ The project demonstrates strong skills in **data preparation, exploratory analys
 
 The Data has been used from **Alex The Analyst** Tableau Course Tutorial Video provided datasets in the description.
 
+Click Here to access the project file: [AirBnB Full Project](/Project/AirBnB%20Full%20Project.twb)
+
+
 🔗 **Live Dashboard (Tableau Public):**  
 https://public.tableau.com/app/profile/farhan.abbas.rizvi/viz/AirBnBFullProject_17665051453390/Dashboard1?publish=yes
 
